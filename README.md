@@ -16,8 +16,7 @@ This Script can be used to Backup the Content of a Teams Chat and send the Resul
 
 # Getting Started
 
-1.	Install and Download au2mator - Self Service Portal: <a href="https://au2mator.com/documentation/install-or-update-au2mator-self-service-portal/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat
-" target="_blank">Link</a>
+1.	Install and Download au2mator - Self Service Portal: <a href="https://au2mator.com/documentation/install-or-update-au2mator-self-service-portal/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat" target="_blank">Link</a>
 2.	Configure your PowerShell Script Path: <a href="https://au2mator.com/documentation/use-powershell-with-au2mator/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat" target="_blank">Link</a>
 3.	Download and save this PowerShell Script to you au2mator Powershell Script Path
 
