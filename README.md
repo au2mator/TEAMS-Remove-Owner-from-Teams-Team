@@ -2,24 +2,24 @@
 
 au2mator - Self Service Portal is providing a Frontend to trigger your Microsoft Automation Engines like
 
-- <a href="https://www.au2mator.com/orchestrator" target="_blank">System Center Orchestrator</a>
-- <a href="https://www.au2mator.com/AzureAutomation" target="_blank">Azure Automation</a>
-- <a href="https://www.au2mator.com/Powershell" target="_blank">Powershell</a>
+- <a href="https://www.au2mator.com/orchestrator/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat" target="_blank">System Center Orchestrator</a>
+- <a href="https://www.au2mator.com/AzureAutomation/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat" target="_blank">Azure Automation</a>
+- <a href="https://www.au2mator.com/Powershell/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat" target="_blank">Powershell</a>
 - System Center SMA
 
-This Script can be used to Remove an Owner from a Microsoft Teams Team
+This Script can be used to Backup the Content of a Teams Chat and send the Result as an Email.
 
 
 # Demo
-![Demo](/Demo/RemoveOwnerFromTeams-GithubDemo.gif)
+![Demo](/Demo/TEAMSBackupTeamsChat_GithubDemo.gif)
 
 
 # Getting Started
 
-1.	Install and Download au2mator - Self Service Portal: https://au2mator.com/documentation/install-or-update-au2mator-self-service-portal/
-2.	Configure your PowerShell Script Path: https://au2mator.com/documentation/how-to-configure-powershell-automation/
+1.	Install and Download au2mator - Self Service Portal: <a href="https://au2mator.com/documentation/install-or-update-au2mator-self-service-portal/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat
+" target="_blank">Link</a>
+2.	Configure your PowerShell Script Path: <a href="https://au2mator.com/documentation/use-powershell-with-au2mator/?utm_source=GitHub&utm_medium=ReadMe&utm_campaign=M365BackupMSTeamsChat" target="_blank">Link</a>
 3.	Download and save this PowerShell Script to you au2mator Powershell Script Path
-4.	Follow the blog Post: https://au2mator.com/remove-owner-from-microsoft-teams-team-microsoft-teams-self-service-with-au2mator/
 
 
 
